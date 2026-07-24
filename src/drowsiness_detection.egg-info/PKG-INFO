@@ -2,8 +2,8 @@ Metadata-Version: 2.4
 Name: drowsiness-detection
 Version: 0.1.0
 Summary: Real-time drowsiness detection using computer vision and ML
-Author: Your Name
-Author-email: Aikoes <aikoes@example.com>
+Author: aikoes
+Author-email: ziadhero887@gmail.com
 License: MIT
 Project-URL: Homepage, https://github.com/aikoes/drowsiness_detection
 Project-URL: Repository, https://github.com/aikoes/drowsiness_detection
@@ -34,7 +34,6 @@ Requires-Dist: pre-commit>=3.5.0; extra == "dev"
 Provides-Extra: docs
 Requires-Dist: sphinx>=7.1.0; extra == "docs"
 Requires-Dist: sphinx-rtd-theme>=1.3.0; extra == "docs"
-Dynamic: author
 Dynamic: requires-python
 
 # Drowsiness Detection AI Model
@@ -326,7 +325,7 @@ If you use this code in research, please cite:
 
 ```
 @software{drowsiness_detection_ai2026,
-  author       = {Your Name},
+  author       = {aikoes},
   title        = {Drowsiness Detection AI Model},
   year         = {2026},
   url          = {https://github.com/yourorg/drowsiness_detection_ai},
