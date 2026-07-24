@@ -4,7 +4,7 @@ setup(
     name="drowsiness_detection",
     version="0.1.0",
     description="Real-time driver drowsiness detection AI model",
-    author="Your Name",
+    author="aikoes",
     packages=find_packages(),
     install_requires=[
         "opencv-python>=4.8.0",
