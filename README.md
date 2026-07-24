@@ -287,10 +287,9 @@ If you use this code in research, please cite:
 
 ```
 @software{drowsiness_detection_ai2026,
-  author       = {Your Name},
+  author       = ziad887-hub
   title        = {Drowsiness Detection AI Model},
   year         = {2026},
-  url          = {https://github.com/yourorg/drowsiness_detection_ai},
   version      = {0.1.0}
 }
 ```
